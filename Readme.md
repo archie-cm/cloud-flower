@@ -28,20 +28,17 @@ Here is how to setup the environment:
 4. Click **CREATE** button to create new Composer environment
 5. Fill some required fields there. This projects use this machine config:
    - Name: cloud-flower
-   - Location: asia-south1
+   - Location: us-central1
    - Node count: 3
-   - Zone: asia-south1-a
+   - Zone: us-central-a
    - Machine Type: n1-standard-1
-   - Disk size (GB): 20 GB
+   - Disk size (GB): 30 GB
    - Service account: choose your Compute Engine service account.
-   - Image Version: composer-1.17.0-preview.1-airflow-2.0.1
-   - Python Version: 3
+   - Image Version: composer-1.20.7-airflow-2.2.5
    - Cloud SQL machine type: db-n1-standard-2
    - Web server machine type: db-n1-standard-2
-6. Fill the Environment Variable with
-   - ENVIRONMENT: production
-7. Then, click the **CREATE** button
-8. Note that you will need to wait for some minutes until the environment successfully created.
+6. Then, click the **CREATE** button
+7. Note that you will need to wait for some minutes until the environment successfully created.
 ![composer-env](/images/Composer%20Env%20Config.png)
 
 After the environment has been created successfully you will see like this:
