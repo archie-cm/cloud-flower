@@ -1,0 +1,24 @@
+{
+    "BigQuery Schema": [
+        {
+            "name": "fullname",
+            "type": "string"
+        },
+        {
+            "name": "phone",
+            "type": "numeric"
+        },
+        {
+            "name": "hobbies",
+            "type": "string"
+        },
+        {
+            "name": "games",
+            "type": "string"
+        },
+        {
+            "name": "birthdate",
+            "type": "date"
+        }
+    ]
+}
