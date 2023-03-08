@@ -22,7 +22,7 @@ Cloud Flower stands for:
 Composer is managed Airflow environment on Google Cloud Platform. With Composer you don't need to spend more time on managing your Airflow, you can just focus on writing the DAGs.
 
 ### Result
-https://console.cloud.google.com/dataflow/jobs/us-central1/2023-03-07_03_51_16-14212459378416273444?pageState=(%22dfTime%22:(%22s%22:%222023-03-07T13:51:11.076Z%22,%22e%22:%222023-03-07T14:51:11.076Z%22))&project=data-fellowship-9-project
+https://github.com/archie-cm/cloud-flower/blob/main/images/add/After%20Success%20Create%20Env.png
 
 Here is how to setup the environment:
 1. Activate Composer API if you haven't. You can refer to this link on how to: https://cloud.google.com/endpoints/docs/openapi/enable-api#console
